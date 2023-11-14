@@ -11,6 +11,7 @@
 <!-- wp:heading {"level":3} -->
 <h3>Requirements:</h3>
 <!-- /wp:heading -->
+![Uploading Data-flow-diagram-of-brain-tumor-analysis-by-using-Enhanced-Watershed-Segmentation-EWS.jpg…]()
 
 <!-- wp:list -->
 <ul><li>python (<a href="https://www.python.org/downloads/"><em>https://www.python.org/downloads/</em></a>)</li><li>sklearn (<em>pip install sklearn</em>)</li><li>openCV (<em>pip install opencv-python</em>)</li><li>numpy (<em>pip install numpy</em>)</li><li>matplotlib (<em>pip install matplotlib</em>)</li></ul>
