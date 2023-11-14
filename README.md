@@ -9,9 +9,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
+## Flowchart
+
+![Data-flow-diagram-of-brain-tumor-analysis-by-using-Enhanced-Watershed-Segmentation-EWS](https://github.com/ragulvk/BRAIN-TUMOR-DETECTION/assets/94165252/7bd26254-4bd9-4759-884d-00cc2c0c95c6)
 <h3>Requirements:</h3>
 <!-- /wp:heading -->
-![Data-flow-diagram-of-brain-tumor-analysis-by-using-Enhanced-Watershed-Segmentation-EWS](https://github.com/ragulvk/BRAIN-TUMOR-DETECTION/assets/94165252/7bd26254-4bd9-4759-884d-00cc2c0c95c6)
 
 <!-- wp:list -->
 <ul><li>python (<a href="https://www.python.org/downloads/"><em>https://www.python.org/downloads/</em></a>)</li><li>sklearn (<em>pip install sklearn</em>)</li><li>openCV (<em>pip install opencv-python</em>)</li><li>numpy (<em>pip install numpy</em>)</li><li>matplotlib (<em>pip install matplotlib</em>)</li></ul>
