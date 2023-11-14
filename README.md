@@ -1,4 +1,4 @@
-# Brain Tumor Detection Using Python and Sklearn
+# BRAIN TUMOR DETECTION USING PYTHON AND SKLEARN
 
 <!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none","style":{"color":[]}} -->
 <figure class="wp-block-image size-large"><img src="https://cwadtech.files.wordpress.com/2021/07/istockphoto-939518752-612x612-1.jpg?w=612" alt="" class="wp-image-21"/></figure>
@@ -11,7 +11,7 @@
 <!-- wp:heading {"level":3} -->
 <h3>Requirements:</h3>
 <!-- /wp:heading -->
-![Uploading Data-flow-diagram-of-brain-tumor-analysis-by-using-Enhanced-Watershed-Segmentation-EWS.jpg…]()
+![Data-flow-diagram-of-brain-tumor-analysis-by-using-Enhanced-Watershed-Segmentation-EWS](https://github.com/ragulvk/BRAIN-TUMOR-DETECTION/assets/94165252/7bd26254-4bd9-4759-884d-00cc2c0c95c6)
 
 <!-- wp:list -->
 <ul><li>python (<a href="https://www.python.org/downloads/"><em>https://www.python.org/downloads/</em></a>)</li><li>sklearn (<em>pip install sklearn</em>)</li><li>openCV (<em>pip install opencv-python</em>)</li><li>numpy (<em>pip install numpy</em>)</li><li>matplotlib (<em>pip install matplotlib</em>)</li></ul>
